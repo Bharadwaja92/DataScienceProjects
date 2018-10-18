@@ -1,2 +1,6 @@
-# KaggleSubmissions
-My Kaggle Projects
+# DataScienceProjects
+
+Projects from
+  Kaggle
+  HackerEarth
+  Analytics Vidhya
