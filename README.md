@@ -1,6 +1,6 @@
 # DataScienceProjects
 
 Projects from
-  Kaggle
-  HackerEarth
+  Kaggle,
+  HackerEarth,
   Analytics Vidhya
