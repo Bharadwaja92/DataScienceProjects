@@ -16,7 +16,3 @@ http://scikit-learn.org/stable/auto_examples/exercises/plot_iris_exercise.html#s
 
 http://scikit-learn.org/stable/auto_examples/compose/plot_feature_union.html#sphx-glr-auto-examples-compose-plot-feature-union-py
 """
-
-"""
-https://medium.com/@srishtisawla/iris-flower-classification-fb6189de3fff
-"""
